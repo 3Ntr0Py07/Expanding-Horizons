@@ -1,4 +1,4 @@
-/src/.vs/*
-/src/Binaries/*
-/src/Content/*
-/src/Intermediate/*
+*/src/.vs/**
+*/src/Binaries/**
+*/src/Content/**
+*/src/Intermediate/**
