@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "z:\\icloud\\iclouddrive\\icloud~md~obsidian\\ecoville docs\\dev\\src\\ecoville\\source\\ecoville\\ecoville.cpp",
+        "ProvidedModule": "",
+        "PCH": "z:\\icloud\\iclouddrive\\icloud~md~obsidian\\ecoville docs\\dev\\src\\ecoville\\intermediate\\build\\win64\\ecovilleeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "z:\\icloud\\iclouddrive\\icloud~md~obsidian\\ecoville docs\\dev\\src\\ecoville\\intermediate\\build\\win64\\unrealeditor\\development\\ecoville\\definitions.ecoville.h",
+            "z:\\icloud\\iclouddrive\\icloud~md~obsidian\\ecoville docs\\dev\\src\\ecoville\\source\\ecoville\\ecoville.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

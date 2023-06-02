@@ -1,0 +1,32 @@
+### Climate Interaction/Balance
+- This Value Stores Information about how your city Influences the Climate
+- It also stores every factor that changes this balance
+	- Building Material industries 
+		- Stuff like Steel and concrete production
+	- Imports, based on 
+		- their origins on this world
+		- your investments in transportation/logistics technology 
+	- Traffic and Transportation, based on
+		- Materials used for roads built
+		- investments in transportation/public transport technology
+		- investments in transportation/private transport technology
+	- Private Emissions
+		- Based on general technology standard and wealth
+		- this is hard to influence directly, can be influenced by pushing the market in the correct direction
+	- Agriculture and forestry
+		- Done right this can have a big impact on reverting the errors of the previous generations as well as your own
+		- Done wrong this can ruin a lot
+		- Even though stakes are high, it should be easy to determine wether an action will have positive or negative impact
+		- This can be influenced by genetic engineering technology, to change efficiency of crops in the desired direction
+	- Waste
+		- through overproduction in many industries we have high waste production
+		- by subsidies for recyclability  and repairability
+	- Energy Production
+		- Different Energy sources provide different amounts of energy, waste and emissions
+			- usual green sources (photovoltaics, wind power)
+			- fossile / flammable fuel (coal, oil, hydrogen)
+			- nuclear power (fusion, fission)
+	- Architecture 
+		- More reliable architecture can minimize your need for building materials
+		- intelligent building design can minimize energy consumption via i.e. heating/cooling
+	- other Industry
