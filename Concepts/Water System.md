@@ -1,0 +1,1 @@
+The water system has two main facilities, the [[Water Treatment Plant]] and the [[Water Pump]]. Another building type found in this tab will be the [[Water Tank]]. [[Water Pipes]] may be moved here as well

@@ -32,3 +32,4 @@ src/EcoVille/.vsconfig
 *.filters
 *.user
 *.ush
+.DS_Store
